@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import FirebaseAuth from "../auth/FirebaseAuth";
+import FirebaseAuth from "../auth/firebaseAuth";
 
 const firebaseAuth = new FirebaseAuth();
 

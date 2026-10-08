@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import TmdbApi from "../api/TmdbApi";
 import Movie from "../models/Movie";
-import MovieCard from "../Models/MovieCard";
+import MovieCard from "../models/MovieCard"
 import SearchBar from "../search/SearchBar";
 import FilterEngine from "../filters/FilterEngine";
 import SortEngine from "../sorting/SortEngine";

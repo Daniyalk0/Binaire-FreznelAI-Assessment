@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import NetworkMonitor from "../offline/NetworkMonitor";
+import NetworkMonitor from "../offline/networkMonitor";
 
 const networkMonitor = new NetworkMonitor();
 
